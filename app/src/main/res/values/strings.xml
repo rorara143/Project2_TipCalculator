@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Project2_TipCalculator</string>
+
+<string name="bill_amount_label">Bill Amount</string>
+<string name="bill_amount"></string>
+
+<string name="tip_percent_label">Percent</string>
+<string name="tip_percent">15%</string>
+
+
+<string name="tip_amount_label">Tip</string>
+<string name="tip_amount">$0.00</string>
+
+<string name="total_amount_label">Total</string>
+<string name="total_amount">$0.00</string>
+
+<string name="remember_percent">Remember Tip Percent</string>
+
+   
+    <string name="applyButton">Apply</string>
+</resources>
